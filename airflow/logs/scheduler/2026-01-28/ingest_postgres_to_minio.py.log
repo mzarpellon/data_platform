@@ -1,0 +1,481 @@
+[2026-01-28T20:07:12.761+0000] {processor.py:161} INFO - Started process (PID=892) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:07:12.762+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:07:12.763+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:07:12.763+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:07:13.089+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:07:13.105+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.348 seconds
+[2026-01-28T20:07:43.154+0000] {processor.py:161} INFO - Started process (PID=902) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:07:43.155+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:07:43.157+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:07:43.157+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:07:43.231+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:07:43.252+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.102 seconds
+[2026-01-28T20:08:08.337+0000] {processor.py:161} INFO - Started process (PID=907) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:08.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:08:08.339+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:08:08.339+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:08.435+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:08.448+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.115 seconds
+[2026-01-28T20:08:08.480+0000] {processor.py:161} INFO - Started process (PID=912) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:08.481+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:08:08.482+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:08:08.481+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:08.540+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:08.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.076 seconds
+[2026-01-28T20:08:38.796+0000] {processor.py:161} INFO - Started process (PID=922) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:38.797+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:08:38.798+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:08:38.798+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:38.858+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:08:38.870+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.077 seconds
+[2026-01-28T20:09:09.055+0000] {processor.py:161} INFO - Started process (PID=932) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:09.056+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:09:09.057+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:09:09.057+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:09.119+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:09.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.081 seconds
+[2026-01-28T20:09:15.208+0000] {processor.py:161} INFO - Started process (PID=942) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:15.209+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:09:15.210+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:09:15.210+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:15.283+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:15.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.093 seconds
+[2026-01-28T20:09:19.248+0000] {processor.py:161} INFO - Started process (PID=947) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:19.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:09:19.251+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:09:19.250+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:19.319+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:19.334+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.090 seconds
+[2026-01-28T20:09:23.400+0000] {processor.py:161} INFO - Started process (PID=952) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:23.401+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:09:23.402+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:09:23.402+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:23.485+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:23.500+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.104 seconds
+[2026-01-28T20:09:38.531+0000] {processor.py:161} INFO - Started process (PID=957) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:38.532+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:09:38.533+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:09:38.533+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:38.622+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:38.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.114 seconds
+[2026-01-28T20:09:44.779+0000] {processor.py:161} INFO - Started process (PID=967) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:44.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:09:44.783+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:09:44.782+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:44.870+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:44.885+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.110 seconds
+[2026-01-28T20:09:44.919+0000] {processor.py:161} INFO - Started process (PID=972) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:44.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:09:44.922+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:09:44.921+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:44.985+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:09:45.003+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.087 seconds
+[2026-01-28T20:10:15.219+0000] {processor.py:161} INFO - Started process (PID=982) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:10:15.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:10:15.222+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:10:15.221+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:10:15.292+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:10:15.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.089 seconds
+[2026-01-28T20:10:45.540+0000] {processor.py:161} INFO - Started process (PID=992) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:10:45.541+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:10:45.542+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:10:45.542+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:10:45.602+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:10:45.619+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.083 seconds
+[2026-01-28T20:11:15.869+0000] {processor.py:161} INFO - Started process (PID=1002) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:15.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:11:15.872+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:11:15.871+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:15.937+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:15.953+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.087 seconds
+[2026-01-28T20:11:29.081+0000] {processor.py:161} INFO - Started process (PID=1007) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:29.081+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:11:29.082+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:11:29.082+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:28.698+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:28.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.090 seconds
+[2026-01-28T20:11:54.283+0000] {processor.py:161} INFO - Started process (PID=1017) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:54.284+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:11:54.285+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:11:54.285+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:54.353+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:11:54.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.087 seconds
+[2026-01-28T20:12:14.482+0000] {processor.py:161} INFO - Started process (PID=1022) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:12:14.483+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:12:14.484+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:12:14.484+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:12:14.564+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:12:14.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.103 seconds
+[2026-01-28T20:12:41.786+0000] {processor.py:161} INFO - Started process (PID=1032) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:12:41.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:12:41.789+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:12:41.788+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:12:41.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:12:41.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.101 seconds
+[2026-01-28T20:13:11.996+0000] {processor.py:161} INFO - Started process (PID=1042) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:11.997+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:13:11.998+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:13:11.998+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:12.065+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:12.080+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.089 seconds
+[2026-01-28T20:13:42.297+0000] {processor.py:161} INFO - Started process (PID=1052) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:42.298+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:13:42.299+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:13:42.299+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:42.370+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:42.384+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.090 seconds
+[2026-01-28T20:13:46.456+0000] {processor.py:161} INFO - Started process (PID=1062) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:46.457+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:13:46.458+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:13:46.458+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:46.470+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:13:46.469+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 82
+    records_read += len(rows)
+                             ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:13:46.470+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:13:46.490+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.037 seconds
+[2026-01-28T20:14:15.624+0000] {processor.py:161} INFO - Started process (PID=1067) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:14:15.625+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:14:15.626+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:14:15.625+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:14:15.640+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:14:15.639+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 84
+    filename = f"/tmp/part-{part}.csv"
+                                      ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:14:15.641+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:14:15.665+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.044 seconds
+[2026-01-28T20:14:45.921+0000] {processor.py:161} INFO - Started process (PID=1077) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:14:45.922+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:14:45.923+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:14:45.923+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:14:45.934+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:14:45.934+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 84
+    filename = f"/tmp/part-{part}.csv"
+                                      ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:14:45.935+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:14:45.956+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.039 seconds
+[2026-01-28T20:15:02.087+0000] {processor.py:161} INFO - Started process (PID=1087) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:02.088+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:15:02.089+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:15:02.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:02.101+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:15:02.101+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 95
+    ])
+      ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:15:02.102+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:02.123+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.039 seconds
+[2026-01-28T20:15:13.199+0000] {processor.py:161} INFO - Started process (PID=1092) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:13.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:15:13.201+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:15:13.201+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:13.214+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:15:13.214+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 96
+    writer.writerows(rows)
+                          ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:15:13.215+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:13.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.040 seconds
+[2026-01-28T20:15:37.374+0000] {processor.py:161} INFO - Started process (PID=1102) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:37.375+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:15:37.376+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:15:37.376+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:37.388+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:15:37.387+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 103
+    )
+     ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:15:37.389+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:15:37.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.038 seconds
+[2026-01-28T20:16:07.602+0000] {processor.py:161} INFO - Started process (PID=1112) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:07.603+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:16:07.604+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:07.604+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:07.619+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:07.618+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 103
+    )
+     ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:16:07.620+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:07.645+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.047 seconds
+[2026-01-28T20:16:21.715+0000] {processor.py:161} INFO - Started process (PID=1122) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.716+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:16:21.717+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.717+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.732+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.731+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 108
+    records_written += len(rows)
+                                ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:16:21.732+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.044 seconds
+[2026-01-28T20:16:21.787+0000] {processor.py:161} INFO - Started process (PID=1127) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.788+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:16:21.789+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.789+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.802+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.801+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 108
+    records_written += len(rows)
+                                ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:16:21.803+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.820+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.036 seconds
+[2026-01-28T20:16:21.859+0000] {processor.py:161} INFO - Started process (PID=1132) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.861+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:16:21.862+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.861+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.878+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.877+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 108
+    records_written += len(rows)
+                                ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:16:21.879+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.897+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.041 seconds
+[2026-01-28T20:16:21.930+0000] {processor.py:161} INFO - Started process (PID=1137) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.931+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:16:21.933+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.932+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.947+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:21.946+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 108
+    records_written += len(rows)
+                                ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:16:21.947+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:21.967+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.041 seconds
+[2026-01-28T20:16:52.156+0000] {processor.py:161} INFO - Started process (PID=1147) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:52.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:16:52.158+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:52.158+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:52.173+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:52.172+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 108
+    records_written += len(rows)
+                                ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:16:52.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:52.197+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.044 seconds
+[2026-01-28T20:16:59.245+0000] {processor.py:161} INFO - Started process (PID=1152) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:59.246+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:16:59.247+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:59.247+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:59.264+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:16:59.264+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 122
+    conn.commit()
+                 ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:16:59.265+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:16:59.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.042 seconds
+[2026-01-28T20:17:29.513+0000] {processor.py:161} INFO - Started process (PID=1162) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:29.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:17:29.516+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:17:29.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:29.530+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:17:29.529+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 122
+    conn.commit()
+                 ^
+SyntaxError: expected 'except' or 'finally' block
+[2026-01-28T20:17:29.531+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:29.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.070 seconds
+[2026-01-28T20:17:33.547+0000] {processor.py:161} INFO - Started process (PID=1167) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:33.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:17:33.550+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:17:33.550+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:33.567+0000] {logging_mixin.py:188} WARNING - /opt/airflow/dags/ingest_postgres_to_minio.py:113 SyntaxWarning: 'str' object is not callable; perhaps you missed a comma?
+[2026-01-28T20:17:33.633+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:33.648+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.104 seconds
+[2026-01-28T20:17:38.262+0000] {processor.py:161} INFO - Started process (PID=1172) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:38.263+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:17:38.265+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:17:38.264+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:38.284+0000] {logging_mixin.py:188} WARNING - /opt/airflow/dags/ingest_postgres_to_minio.py:113 SyntaxWarning: 'str' object is not callable; perhaps you missed a comma?
+[2026-01-28T20:17:38.352+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:17:38.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.109 seconds
+[2026-01-28T20:18:08.534+0000] {processor.py:161} INFO - Started process (PID=1182) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:08.535+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:18:08.536+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:18:08.536+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:08.603+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:08.619+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.087 seconds
+[2026-01-28T20:18:38.827+0000] {processor.py:161} INFO - Started process (PID=1192) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:38.828+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:18:38.830+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:18:38.829+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:38.899+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:38.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.091 seconds
+[2026-01-28T20:18:42.869+0000] {processor.py:161} INFO - Started process (PID=1197) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:42.870+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:18:42.871+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:18:42.871+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:42.886+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:18:42.886+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 141
+    )
+     ^
+SyntaxError: expected ':'
+[2026-01-28T20:18:42.887+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:18:42.908+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.042 seconds
+[2026-01-28T20:19:13.088+0000] {processor.py:161} INFO - Started process (PID=1207) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:19:13.089+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:19:13.090+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:13.090+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:19:13.103+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:13.101+0000] {dagbag.py:348} ERROR - Failed to import: /opt/airflow/dags/ingest_postgres_to_minio.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/opt/airflow/dags/ingest_postgres_to_minio.py", line 141
+    )
+     ^
+SyntaxError: expected ':'
+[2026-01-28T20:19:13.103+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:19:13.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.036 seconds
+[2026-01-28T20:19:41.293+0000] {processor.py:161} INFO - Started process (PID=1217) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:19:41.295+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:19:41.296+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:41.296+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:19:41.312+0000] {logging_mixin.py:188} WARNING - /opt/airflow/dags/ingest_postgres_to_minio.py:113 SyntaxWarning: 'str' object is not callable; perhaps you missed a comma?
+[2026-01-28T20:19:41.389+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:19:41.551+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:41.551+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:ingest_postgres_to_minio_landing
+[2026-01-28T20:19:41.560+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:41.559+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:ingest_postgres_to_minio_landing
+[2026-01-28T20:19:41.565+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:41.564+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:ingest_postgres_to_minio_landing
+[2026-01-28T20:19:41.565+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:41.565+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:19:41.574+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:41.574+0000] {dag.py:3058} INFO - Creating ORM DAG for ingest_postgres_to_minio_landing
+[2026-01-28T20:19:41.575+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:19:41.575+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:19:41.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.307 seconds
+[2026-01-28T20:20:12.473+0000] {processor.py:161} INFO - Started process (PID=1227) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:20:12.474+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:20:12.475+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:20:12.475+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:20:12.557+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:20:12.580+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:20:12.580+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:20:12.592+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:20:12.591+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:20:12.610+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.140 seconds
+[2026-01-28T20:20:42.815+0000] {processor.py:161} INFO - Started process (PID=1237) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:20:42.816+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:20:42.816+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:20:42.816+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:20:42.886+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:20:42.911+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:20:42.911+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:20:42.922+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:20:42.922+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:20:42.941+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.129 seconds
+[2026-01-28T20:21:13.038+0000] {processor.py:161} INFO - Started process (PID=1247) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:21:13.039+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:21:13.040+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:21:13.040+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:21:13.117+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:21:13.145+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:21:13.145+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:21:13.158+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:21:13.158+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:21:13.176+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.142 seconds
+[2026-01-28T20:21:43.354+0000] {processor.py:161} INFO - Started process (PID=1257) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:21:43.355+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:21:43.357+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:21:43.356+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:21:43.440+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:21:43.475+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:21:43.474+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:21:43.490+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:21:43.489+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:21:43.511+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.160 seconds
+[2026-01-28T20:22:13.571+0000] {processor.py:161} INFO - Started process (PID=1267) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:22:13.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:22:13.574+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:22:13.574+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:22:13.653+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:22:13.678+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:22:13.678+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:22:13.690+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:22:13.690+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:22:13.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.144 seconds
+[2026-01-28T20:22:43.905+0000] {processor.py:161} INFO - Started process (PID=1277) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:22:43.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:22:43.907+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:22:43.907+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:22:43.983+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:22:44.009+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:22:44.009+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:22:44.021+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:22:44.020+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:22:44.042+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.141 seconds
+[2026-01-28T20:23:14.091+0000] {processor.py:161} INFO - Started process (PID=1287) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:23:14.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:23:14.093+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:23:14.093+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:23:14.170+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:23:14.198+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:23:14.198+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:23:14.211+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:23:14.211+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:23:14.234+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.146 seconds
+[2026-01-28T20:23:44.464+0000] {processor.py:161} INFO - Started process (PID=1297) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:23:44.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:23:44.466+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:23:44.465+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:23:44.556+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:23:44.586+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:23:44.586+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:23:44.601+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:23:44.601+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:23:44.624+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.163 seconds
+[2026-01-28T20:24:14.687+0000] {processor.py:161} INFO - Started process (PID=1307) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:24:14.688+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:24:14.689+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:14.689+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:24:14.768+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:24:14.794+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:14.794+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:24:14.807+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:14.806+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:24:14.828+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.145 seconds
+[2026-01-28T20:24:45.023+0000] {processor.py:161} INFO - Started process (PID=1317) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:24:45.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:24:45.025+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:45.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:24:45.093+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:24:45.117+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:45.116+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:24:45.128+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:45.128+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:24:45.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.126 seconds
