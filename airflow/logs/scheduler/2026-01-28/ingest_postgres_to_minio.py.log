@@ -479,3 +479,60 @@ SyntaxError: expected ':'
 [2026-01-28T20:24:45.117+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:45.116+0000] {dag.py:3036} INFO - Sync 1 DAGs
 [2026-01-28T20:24:45.128+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:24:45.128+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
 [2026-01-28T20:24:45.146+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.126 seconds
+[2026-01-28T20:25:15.221+0000] {processor.py:161} INFO - Started process (PID=1327) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:25:15.222+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:25:15.223+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:25:15.223+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:25:15.339+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:25:15.369+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:25:15.369+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:25:15.381+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:25:15.381+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:25:15.401+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.184 seconds
+[2026-01-28T20:25:45.484+0000] {processor.py:161} INFO - Started process (PID=1337) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:25:45.485+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:25:45.486+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:25:45.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:25:45.562+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:25:45.589+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:25:45.588+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:25:45.602+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:25:45.601+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:25:45.622+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.143 seconds
+[2026-01-28T20:26:15.692+0000] {processor.py:161} INFO - Started process (PID=1349) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:26:15.693+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:26:15.694+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:26:15.694+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:26:15.766+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:26:15.792+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:26:15.792+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:26:15.806+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:26:15.805+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:26:15.832+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.143 seconds
+[2026-01-28T20:26:46.027+0000] {processor.py:161} INFO - Started process (PID=1359) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:26:46.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:26:46.030+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:26:46.029+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:26:46.102+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:26:46.129+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:26:46.129+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:26:46.140+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:26:46.140+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:26:46.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.133 seconds
+[2026-01-28T20:27:16.211+0000] {processor.py:161} INFO - Started process (PID=1369) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:27:16.212+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:27:16.213+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:27:16.213+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:27:16.285+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:27:16.310+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:27:16.309+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:27:16.321+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:27:16.321+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:27:16.338+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.130 seconds
+[2026-01-28T20:27:46.513+0000] {processor.py:161} INFO - Started process (PID=1379) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:27:46.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:27:46.515+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:27:46.515+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:27:46.585+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:27:46.611+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:27:46.610+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:27:46.623+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:27:46.622+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:27:46.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.131 seconds
+[2026-01-28T20:28:16.709+0000] {processor.py:161} INFO - Started process (PID=1389) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:28:16.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:28:16.711+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:28:16.711+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:28:16.783+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:28:16.811+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:28:16.811+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:28:16.823+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:28:16.823+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:28:16.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.136 seconds
+[2026-01-28T20:28:28.786+0000] {processor.py:161} INFO - Started process (PID=1399) to work on /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:28:28.787+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/ingest_postgres_to_minio.py for tasks to queue
+[2026-01-28T20:28:28.788+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:28:28.788+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:28:28.806+0000] {logging_mixin.py:188} WARNING - /opt/airflow/dags/ingest_postgres_to_minio.py:116 SyntaxWarning: 'str' object is not callable; perhaps you missed a comma?
+[2026-01-28T20:28:28.875+0000] {processor.py:840} INFO - DAG(s) 'ingest_postgres_to_minio_landing' retrieved from /opt/airflow/dags/ingest_postgres_to_minio.py
+[2026-01-28T20:28:28.899+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:28:28.898+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:28:28.914+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:28:28.914+0000] {dag.py:3823} INFO - Setting next_dagrun for ingest_postgres_to_minio_landing to None, run_after=None
+[2026-01-28T20:28:28.937+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/ingest_postgres_to_minio.py took 0.155 seconds
