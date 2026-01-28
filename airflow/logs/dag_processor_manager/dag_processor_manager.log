@@ -1811,3 +1811,95 @@ File Path                                      PID    Runtime      # DAGs    # E
 /opt/airflow/dags/example_ingestion.py                                  1           0  0.11s           2026-01-28T20:39:01
 /opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.22s           2026-01-28T20:39:03
 ================================================================================
+[2026-01-28T20:39:56.958+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:39:31
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.18s           2026-01-28T20:39:41
+================================================================================
+[2026-01-28T20:40:25.723+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:40:02
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.16s           2026-01-28T20:40:11
+================================================================================
+[2026-01-28T20:40:54.423+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.11s           2026-01-28T20:40:32
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.16s           2026-01-28T20:40:41
+================================================================================
+[2026-01-28T20:41:23.700+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:41:02
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.17s           2026-01-28T20:41:11
+================================================================================
+[2026-01-28T20:41:52.984+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:41:32
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.17s           2026-01-28T20:41:42
+================================================================================
+[2026-01-28T20:42:22.246+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:42:03
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.16s           2026-01-28T20:42:12
+================================================================================
+[2026-01-28T20:42:30.350+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-01-28T20:42:30.376+0000] {manager.py:741} INFO - There are 2 files in /opt/airflow/dags
+[2026-01-28T20:42:51.588+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:42:33
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.17s           2026-01-28T20:42:25
+================================================================================
+[2026-01-28T20:43:20.763+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:43:03
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.15s           2026-01-28T20:42:55
+================================================================================
+[2026-01-28T20:43:49.960+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.10s           2026-01-28T20:43:34
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.15s           2026-01-28T20:43:25
+================================================================================
+[2026-01-28T20:44:19.153+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/example_ingestion.py                                  1           0  0.12s           2026-01-28T20:44:04
+/opt/airflow/dags/ingest_postgres_to_minio.py                           1           0  0.20s           2026-01-28T20:43:56
+================================================================================

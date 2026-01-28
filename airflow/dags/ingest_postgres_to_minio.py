@@ -51,16 +51,16 @@ def extract_and_load():
     # Buscar dados
     # =========================
     cursor.execute("""
-    SELECT
-        id,
-        source_system,
-        ingestion_id,
-        payload,
-        file_name,
-        ingested_at
-    FROM landing.raw_events
-    WHERE ingestion_id = %s
-    ORDER BY id
+        SELECT
+            id,
+            source_system,
+            ingestion_id,
+            payload,
+            file_name,
+            ingested_at
+        FROM landing.raw_events
+        WHERE ingestion_id = %s
+        ORDER BY id
     """, (ingestion_id,))
 
     s3 = boto3.client(
@@ -122,7 +122,7 @@ def extract_and_load():
                 records_written = %s,
                 finished_at = NOW()
             WHERE ingestion_id = %s
-        """(records_read, records_written, ingestion_id))
+        """, (records_read, records_written, ingestion_id))
         conn.commit()
     except Exception as e:
         cursor.execute("""
