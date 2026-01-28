@@ -67,7 +67,7 @@ def extract_and_load():
         "s3",
         endpoint_url=os.environ["S3_ENDPOINT"],
         aws_access_key_id=os.environ["AWS_ACCESS_KEY_ID"],
-        aws_secret_acess_key=os.environ["AWS_SECRET_ACCESS_KEY"],
+        aws_secret_access_key=os.environ["AWS_SECRET_ACCESS_KEY"],
     )
 
     ingestion_date = datetime.utcnow().date().isoformat()
