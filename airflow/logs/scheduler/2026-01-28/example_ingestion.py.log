@@ -1314,3 +1314,122 @@
 [2026-01-28T20:29:24.277+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:29:24.277+0000] {dag.py:3036} INFO - Sync 1 DAGs
 [2026-01-28T20:29:24.289+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:29:24.289+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
 [2026-01-28T20:29:24.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.074 seconds
+[2026-01-28T20:29:54.639+0000] {processor.py:161} INFO - Started process (PID=1431) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:29:54.640+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:29:54.641+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:29:54.640+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:29:54.656+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:29:54.682+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:29:54.682+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:29:54.693+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:29:54.693+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:29:54.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.076 seconds
+[2026-01-28T20:30:24.882+0000] {processor.py:161} INFO - Started process (PID=1443) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:30:24.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:30:24.885+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:30:24.884+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:30:24.900+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:30:24.924+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:30:24.924+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:30:24.935+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:30:24.935+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:30:24.952+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.073 seconds
+[2026-01-28T20:30:55.141+0000] {processor.py:161} INFO - Started process (PID=1453) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:30:55.142+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:30:55.143+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:30:55.143+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:30:55.159+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:30:55.183+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:30:55.183+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:30:55.193+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:30:55.193+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:30:55.212+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.075 seconds
+[2026-01-28T20:31:25.404+0000] {processor.py:161} INFO - Started process (PID=1463) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:31:25.405+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:31:25.406+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:31:25.406+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:31:25.422+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:31:25.443+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:31:25.443+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:31:25.455+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:31:25.455+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:31:25.474+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.073 seconds
+[2026-01-28T20:31:55.708+0000] {processor.py:161} INFO - Started process (PID=1473) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:31:55.709+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:31:55.710+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:31:55.710+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:31:55.724+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:31:55.750+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:31:55.749+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:31:55.763+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:31:55.762+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:31:55.787+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.082 seconds
+[2026-01-28T20:32:26.014+0000] {processor.py:161} INFO - Started process (PID=1483) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:32:26.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:32:26.024+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:32:26.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:32:26.057+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:32:26.095+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:32:26.094+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:32:26.107+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:32:26.107+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:32:26.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.119 seconds
+[2026-01-28T20:32:56.294+0000] {processor.py:161} INFO - Started process (PID=1493) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:32:56.296+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:32:56.297+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:32:56.296+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:32:56.314+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:32:56.337+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:32:56.337+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:32:56.349+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:32:56.349+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:32:56.372+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.081 seconds
+[2026-01-28T20:33:26.533+0000] {processor.py:161} INFO - Started process (PID=1503) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:33:26.534+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:33:26.535+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:33:26.535+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:33:26.552+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:33:26.575+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:33:26.575+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:33:26.585+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:33:26.585+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:33:26.603+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.074 seconds
+[2026-01-28T20:33:56.753+0000] {processor.py:161} INFO - Started process (PID=1513) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:33:56.754+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:33:56.755+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:33:56.755+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:33:56.771+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:33:56.796+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:33:56.796+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:33:56.809+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:33:56.809+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:33:56.828+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.078 seconds
+[2026-01-28T20:34:26.987+0000] {processor.py:161} INFO - Started process (PID=1523) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:34:26.989+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:34:26.990+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:34:26.989+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:34:27.011+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:34:27.040+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:34:27.040+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:34:27.053+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:34:27.053+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:34:27.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.088 seconds
+[2026-01-28T20:34:57.272+0000] {processor.py:161} INFO - Started process (PID=1533) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:34:57.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:34:57.274+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:34:57.274+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:34:57.289+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:34:57.317+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:34:57.317+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:34:57.330+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:34:57.329+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:34:57.348+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.079 seconds
+[2026-01-28T20:35:27.507+0000] {processor.py:161} INFO - Started process (PID=1543) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:35:27.508+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:35:27.510+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:35:27.509+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:35:27.528+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:35:27.559+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:35:27.559+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:35:27.572+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:35:27.572+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:35:27.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.089 seconds
+[2026-01-28T20:35:57.765+0000] {processor.py:161} INFO - Started process (PID=1553) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:35:57.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:35:57.767+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:35:57.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:35:57.781+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:35:57.808+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:35:57.808+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:35:57.820+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:35:57.820+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:35:57.841+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.079 seconds
+[2026-01-28T20:36:28.049+0000] {processor.py:161} INFO - Started process (PID=1563) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:36:28.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:36:28.051+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:36:28.051+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:36:28.068+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:36:28.095+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:36:28.095+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:36:28.108+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:36:28.107+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:36:28.128+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.082 seconds
+[2026-01-28T20:37:30.219+0000] {processor.py:161} INFO - Started process (PID=171) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:37:30.220+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:37:30.221+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:37:30.220+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:37:30.245+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:37:30.485+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:37:30.485+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:37:30.497+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:37:30.496+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:37:30.515+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.300 seconds
+[2026-01-28T20:38:00.645+0000] {processor.py:161} INFO - Started process (PID=186) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:38:00.646+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:38:00.647+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:38:00.647+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:38:00.663+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:38:00.688+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:38:00.688+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:38:00.699+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:38:00.699+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:38:00.719+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.077 seconds
+[2026-01-28T20:38:30.822+0000] {processor.py:161} INFO - Started process (PID=196) to work on /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:38:30.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/example_ingestion.py for tasks to queue
+[2026-01-28T20:38:30.825+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:38:30.824+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:38:30.844+0000] {processor.py:840} INFO - DAG(s) 'example_ingestion' retrieved from /opt/airflow/dags/example_ingestion.py
+[2026-01-28T20:38:30.873+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:38:30.873+0000] {dag.py:3036} INFO - Sync 1 DAGs
+[2026-01-28T20:38:30.886+0000] {logging_mixin.py:188} INFO - [2026-01-28T20:38:30.886+0000] {dag.py:3823} INFO - Setting next_dagrun for example_ingestion to None, run_after=None
+[2026-01-28T20:38:30.909+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/example_ingestion.py took 0.092 seconds
