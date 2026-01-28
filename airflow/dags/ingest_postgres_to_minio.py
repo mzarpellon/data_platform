@@ -6,6 +6,7 @@ import psycopg2
 import boto3
 import csv
 import os 
+import uuid
 from datetime import datetime 
 
 # =========================
@@ -28,7 +29,7 @@ LOCAL_TZ = "America/Sao_Paulo"
 def extract_and_load():
     ingestion_id = str(uuid.uuid4())
     source_system = "postgres_landing"
-    
+
     conn = psycopg2.connect(**POSTGRES_CONN)
     cursor = conn.cursor()
 
