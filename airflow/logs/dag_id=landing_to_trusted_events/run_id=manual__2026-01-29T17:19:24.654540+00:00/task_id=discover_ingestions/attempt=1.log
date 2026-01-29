@@ -1,0 +1,36 @@
+[2026-01-29T17:19:25.350+0000] {logging_mixin.py:188} INFO - Changing /opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions permission to 509
+[2026-01-29T17:19:25.351+0000] {logging_mixin.py:188} INFO - Failed to change /opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions permission to 509: [Errno 1] Operation not permitted: '/opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions'
+[2026-01-29T17:19:25.376+0000] {logging_mixin.py:188} INFO - Changing /opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions permission to 509
+[2026-01-29T17:19:25.377+0000] {logging_mixin.py:188} INFO - Failed to change /opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions permission to 509: [Errno 1] Operation not permitted: '/opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions'
+[2026-01-29T17:19:25.412+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: landing_to_trusted_events.discover_ingestions manual__2026-01-29T17:19:24.654540+00:00 [queued]>
+[2026-01-29T17:19:25.420+0000] {taskinstance.py:1956} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: landing_to_trusted_events.discover_ingestions manual__2026-01-29T17:19:24.654540+00:00 [queued]>
+[2026-01-29T17:19:25.421+0000] {taskinstance.py:2170} INFO - Starting attempt 1 of 1
+[2026-01-29T17:19:25.433+0000] {taskinstance.py:2191} INFO - Executing <Task(_PythonDecoratedOperator): discover_ingestions> on 2026-01-29 17:19:24.654540+00:00
+[2026-01-29T17:19:25.439+0000] {standard_task_runner.py:60} INFO - Started process 804 to run task
+[2026-01-29T17:19:25.442+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'landing_to_trusted_events', 'discover_ingestions', 'manual__2026-01-29T17:19:24.654540+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/trusted_events_to_minio.py', '--cfg-path', '/tmp/tmpet9o798y']
+[2026-01-29T17:19:25.445+0000] {standard_task_runner.py:88} INFO - Job 15: Subtask discover_ingestions
+[2026-01-29T17:19:25.495+0000] {logging_mixin.py:188} INFO - Changing /opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions permission to 509
+[2026-01-29T17:19:25.496+0000] {logging_mixin.py:188} INFO - Failed to change /opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions permission to 509: [Errno 1] Operation not permitted: '/opt/***/logs/dag_id=landing_to_trusted_events/run_id=manual__2026-01-29T17:19:24.654540+00:00/task_id=discover_ingestions'
+[2026-01-29T17:19:25.498+0000] {task_command.py:423} INFO - Running <TaskInstance: landing_to_trusted_events.discover_ingestions manual__2026-01-29T17:19:24.654540+00:00 [running]> on host 64beabb82122
+[2026-01-29T17:19:25.572+0000] {taskinstance.py:2480} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='landing_to_trusted_events' AIRFLOW_CTX_TASK_ID='discover_ingestions' AIRFLOW_CTX_EXECUTION_DATE='2026-01-29T17:19:24.654540+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-01-29T17:19:24.654540+00:00'
+[2026-01-29T17:19:25.858+0000] {taskinstance.py:2698} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/models/taskinstance.py", line 433, in _execute_task
+    result = execute_callable(context=context, **execute_callable_kwargs)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/decorators/base.py", line 241, in execute
+    return_value = super().execute(context)
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 199, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 216, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/trusted_events_to_minio.py", line 41, in discover_ingestions
+    paginator = s3.get_paginator("list_object_v2")
+  File "/home/airflow/.local/lib/python3.10/site-packages/botocore/client.py", line 1151, in get_paginator
+    if not self.can_paginate(operation_name):
+  File "/home/airflow/.local/lib/python3.10/site-packages/botocore/client.py", line 1222, in can_paginate
+    actual_operation_name = self._PY_TO_OP_NAME[operation_name]
+KeyError: 'list_object_v2'
+[2026-01-29T17:19:25.872+0000] {taskinstance.py:1138} INFO - Marking task as FAILED. dag_id=landing_to_trusted_events, task_id=discover_ingestions, execution_date=20260129T171924, start_date=20260129T171925, end_date=20260129T171925
+[2026-01-29T17:19:25.883+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 15 for task discover_ingestions ('list_object_v2'; 804)
+[2026-01-29T17:19:25.903+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 1
+[2026-01-29T17:19:25.917+0000] {taskinstance.py:3280} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -53,11 +53,18 @@ CREATE TABLE IF NOT EXISTS trusted.events (
     event_id BIGSERIAL PRIMARY KEY,
     ingestion_id UUID NOT NULL,
     source_system VARCHAR(50),
-    event_type VARCHAR(50),
-    event_date DATE,
+
+    event_type VARCHAR(50) NOT NULL,
+    event_timestamp TIMESTAMPTZ NOT NULL,
+    event_date DATE NOT NULL,
+
+    user_id BIGINT,
+    success BOOLEAN,
+
     payload JSONB,
     created_at TIMESTAMP DEFAULT NOW()
 );
+
 
 CREATE INDEX IF NOT EXISTS idx_trusted_events_event_date
 ON trusted.events (event_date);
