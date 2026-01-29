@@ -1,0 +1,1 @@
+[2026-01-28T21:03:22.376+0000] {scheduler_job_runner.py:781} ERROR - Executor reports task instance <TaskInstance: ingest_postgres_to_minio_landing.extract_postgres_to_minio manual__2026-01-28T21:03:20.819752+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
